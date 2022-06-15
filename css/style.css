@@ -1,0 +1,23 @@
+table{
+    border: black solid;
+    border-collapse: collapse;
+    margin: 30px auto;
+}
+td{
+    width: 100px;
+    height: 100px;
+    border: black solid;
+    font-size: 50px;
+}
+body{
+    background-image: url(../img/pattern-broken-waves.svg);
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+}
+span{
+    font-size: 20px;
+    line-height: 21px;
+    font-weight: 900;
+}
